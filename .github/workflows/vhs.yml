@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: charmbracelet/vhs-action@v1
+      - uses: charmbracelet/vhs-action@v1.2.2
         with:
-          path: 'vhs.tape'
           version: 'v0.4.0'
+          path: 'vhs.tape'
           install-fonts: 'true'
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
