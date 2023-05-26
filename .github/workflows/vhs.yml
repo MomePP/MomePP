@@ -11,6 +11,7 @@ jobs:
       - uses: charmbracelet/vhs-action@v1
         with:
           path: 'vhs.tape'
+          version: '0.4.0'
           install-fonts: 'true'
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
