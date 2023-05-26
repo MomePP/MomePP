@@ -1,6 +1,6 @@
 Output momepp-info.gif
 
-Set FontFamily "Hack"
+Set FontFamily "Hack-nerd"
 Set Framerate 60
 
 Set Margin 20
