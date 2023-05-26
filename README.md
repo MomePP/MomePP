@@ -1,11 +1,7 @@
-<div align="center">
-  <a href="https://github.com/momepp">
-    <img src="https://github.com/MomePP/momepp-stats/blob/1ae742ecb510891e3374f317baf4903caa6f275f/github_stats.svg">
-  </a>
-  <a href="https://github.com/momepp/momepp">
-    <img src="https://github-readme-stats.vercel.app/api?username=momepp&show_icons=true&count_private=true&theme=dark">
-  </a>
-</div>
+[![momepp-info](https://github.com/MomePP/momepp-stats/blob/1ae742ecb510891e3374f317baf4903caa6f275f/github_stats.svg)](https://github.com/momepp)
+
+[![momepp-stats](https://github-readme-stats.vercel.app/api?username=momepp&show_icons=true&count_private=true&theme=dark)](https://github.com/momepp)
+
 <!--
 **MomePP/momepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
