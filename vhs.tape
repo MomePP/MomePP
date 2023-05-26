@@ -7,6 +7,7 @@ Set Margin 0
 Set MarginFill "#0e1116"
 Set BorderRadius 12
 Set Padding 40
+Set Height 400
 
 Type "Hi, I'm MomePP !!"
 Sleep 2s
