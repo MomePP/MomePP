@@ -4,7 +4,6 @@
   </a>
   <a href="https://github.com/momepp/momepp">
     <img src="https://github-readme-stats.vercel.app/api?username=momepp&show_icons=true&count_private=true&theme=dark">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=momepp&theme=dark">
   </a>
 </div>
 <!--
