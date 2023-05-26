@@ -12,7 +12,6 @@ jobs:
         with:
           version: 'v0.4.0'
           path: 'vhs.tape'
-          install-fonts: 'true'
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GHT }}
