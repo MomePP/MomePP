@@ -3,9 +3,9 @@ Output momepp-info.gif
 Set Framerate 60
 Set TypingSpeed 75ms
 Set WindowBar Colorful
-Set Margin 20
+Set Margin 25
 Set MarginFill "#0e1116"
-Set BorderRadius 10
+Set BorderRadius 12
 Set Padding 40
 
 Type "Hi, I'm MomePP !!"
@@ -24,7 +24,7 @@ Type "I'm currently working on .. GoGo Board Platform ✨ "
 Sleep 1s
 Ctrl+C
 Sleep 500ms
-Type "An educational robotics toolkit designed for children to learn programming,"
+Type "An educational robotics toolkit designed for children to learn coding,"
 Ctrl+C
 Sleep 500ms
 Type "electronics, and robotics in a fun and interactive way"
