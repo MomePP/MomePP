@@ -1,5 +1,7 @@
 [![momepp-stats](https://github-readme-stats.vercel.app/api?username=momepp&show_icons=true&count_private=true&theme=dark)](https://github.com/momepp)
 
+![momepp-info](https://github.com/MomePP/MomePP/blob/main/momepp-info.gif)
+
 - 🔭 I’m currently working on ... GoGo Board Stuff 📚
 
 
