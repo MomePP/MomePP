@@ -12,7 +12,7 @@
 
 </br>
 
-📕 Medium: https://medium.com/@peeranut32
+📕 Medium: https://medium.com/@peeranut-ppkt
 
 <!--
 **MomePP/momepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
